@@ -28,14 +28,14 @@ git clone https://github.com/your-repo-name.git
 cd your-repo-name  
 pip install -r requirements.txt
 ```
-## Usage
+## ▶️ Usage
 
 After setting up the project, you can run the application by running the below command in the terminal:
    ```bash
    streamlit run app.py
   ```
 
-## Project Structure
+## 📂 Project Structure
 
 ``` bash
 ├── backend/
@@ -47,7 +47,7 @@ After setting up the project, you can run the application by running the below c
 ├── README.md
 ```
 
-## Tech Stack
+## 🏗️ Tech Stack
 1. Python
 2. Streamlit
 3. LangChain
@@ -55,12 +55,12 @@ After setting up the project, you can run the application by running the below c
 5. RAG (Retrieval-Augmented Generation)
 6. Google & NVIDIA AI APIs
 
-## Screenshots
+## 📸 Screenshots
 
 Here is screenshot of the application:
 ![Main Interface](images/img.png)
 
-## MIT License  
+## 📜 MIT License  
 
 Copyright (c) 2024  
 
